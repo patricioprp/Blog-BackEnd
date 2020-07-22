@@ -1,0 +1,19 @@
+{
+  "blogposts": [
+    {
+      "title": "API POST editado",
+      "content": "content for my post",
+      "id": 1
+    },
+    {
+      "title": "Este es un titulo nuevo",
+      "content": "Este es un contenido nuevo",
+      "id": 2
+    },
+    {
+      "title": "App terminada",
+      "content": "Finalmente la app esta terminada",
+      "id": 3
+    }
+  ]
+}
